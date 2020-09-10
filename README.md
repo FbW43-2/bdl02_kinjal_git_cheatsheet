@@ -41,8 +41,15 @@ git init
 
 This command creates an empty Git repository. From now on, we can make changes to our files and permanently save those changes.
 
-## 4. Save changes
+## 4. Save changes to files
 
 1. `git add .` (or `git add -A`)
+
+        `git add` tells Git that you want to include the latest changes in the next commit. However, changes are not actually recorded until you run `git commit`.
+
 2. `git commit -m "Meaningful message here"`
+
+    A commit is the Git equivalent of a "Save"
+
 3. `git push`
+    This command sends the committed changes to the server. It is used to upload local repository content to a remote repository.

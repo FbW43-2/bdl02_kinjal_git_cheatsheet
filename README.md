@@ -1,5 +1,6 @@
 #  Git commands cheat-sheet: the most useful git commands are mentioned below:
 
+
 ## 1. Navigate to your git project folder
 
 Use `cd`to move between folders. For example:
@@ -61,7 +62,7 @@ In this  case we can:
 1. Make sure that we are in the right folder (and navigate to it, if necessary)
 2. Initialize git
 
-To initialize git run we have to give command
+To initialize git run we have to give the following command
 
 ```
 git init
@@ -83,3 +84,8 @@ This command creates an empty Git repository. From now on, we can make changes t
 
 3. `git push`
     This command sends the committed changes to the server. It is used to upload local repository content to a remote repository.
+
+    Other things to know are:
+
+*   Generate SSH key
+*   Branches

@@ -1,5 +1,8 @@
 #  Git commands cheat-sheet: the most useful git commands are mentioned below:
 
+These are the following:
+
+
 ## 1. Navigate to your git project folder
 
 Use `cd`to move between folders. For example:

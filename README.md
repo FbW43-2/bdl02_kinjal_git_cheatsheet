@@ -1,4 +1,4 @@
-#  Git commands cheat-sheet: the most useful git commands. 
+#  Git commands cheat-sheet: the most useful git commands are mentioned below:
 
 ## 1. Navigate to your git project folder
 

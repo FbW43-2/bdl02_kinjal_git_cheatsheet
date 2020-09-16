@@ -1,8 +1,8 @@
-#  Git commands cheat-sheet: the most useful git commands
+#  Git commands cheat-sheet: the most useful git commands. 
 
 ## 1. Navigate to your git project folder
 
-Use `cd`to move between folders. E.g:
+Use `cd`to move between folders. For example:
 
 ```
 cd workspace

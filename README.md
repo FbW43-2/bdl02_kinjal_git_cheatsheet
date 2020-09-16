@@ -15,7 +15,7 @@ I can use these commands **anytime** to inspect my project.
 
 - `git status`
 
-    With `git status` I can see if some changes have happened and if some files are ready to be committed.
+     With `git status` I can see if some changes have happened and if some files are ready to be committed.
     It gives me an overview of the project at that specific moment in time.
 
     Messages given by `git status`:

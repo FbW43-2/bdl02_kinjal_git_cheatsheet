@@ -61,7 +61,7 @@ In this  case we can:
 1. Make sure that we are in the right folder (and navigate to it, if necessary)
 2. Initialize git
 
-To initialize git run 
+To initialize git run we have to give command
 
 ```
 git init

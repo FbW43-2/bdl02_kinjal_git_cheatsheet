@@ -3,7 +3,7 @@
 These are the following:
 
 
-## 1. Navigate to your git project folder
+## 1. Navigate to your git project folder :
 
 Use `cd`to move between folders. For example:
 
@@ -12,7 +12,7 @@ cd workspace
 cd bdl02_dodhiakinjal_git_cheatsheet
 ```
 
-## 2. Check the status of the project
+## 2. Check the status of the project :
 
 I can use these commands **anytime** to inspect my project.
 
@@ -51,7 +51,7 @@ I can use these commands **anytime** to inspect my project.
     - Lines marked in **red** are lines that were removed
     - Lines marked in **green** are lines that were added.
 
-## 3. Initialize a git project
+## 3. Initialize a git project :
 
 If any `git` command that we run gives the following output:
 
